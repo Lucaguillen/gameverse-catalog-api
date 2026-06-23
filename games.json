@@ -1,0 +1,78 @@
+{
+  "publishers": [
+    {
+      "external_id": "PUB-001",
+      "name": "Nightfall Studios",
+      "royaltyRate": 0.12,
+      "country": "Japan"
+    },
+    {
+      "external_id": "PUB-002",
+      "name": "Ironclad Interactive",
+      "royaltyRate": 0.18,
+      "country": "USA"
+    },
+    {
+      "external_id": "PUB-003",
+      "name": "Vanguard Games",
+      "royaltyRate": 0.2,
+      "country": "Poland"
+    },
+    {
+      "external_id": "PUB-004",
+      "name": "Northern Lights Studio",
+      "royaltyRate": 0.15,
+      "country": "Sweden"
+    }
+  ],
+  "games": [
+    {
+      "external_id": "GAME-001",
+      "title": "Shadow Realm",
+      "genre": "RPG",
+      "platform": "PlayStation 5",
+      "price": 49.99,
+      "publisher_id": "PUB-001"
+    },
+    {
+      "external_id": "GAME-002",
+      "title": "Iron Tide",
+      "genre": "Simulation",
+      "platform": "Windows",
+      "price": 29.99,
+      "publisher_id": "PUB-002"
+    },
+    {
+      "external_id": "GAME-003",
+      "title": "Frostbite Protocol",
+      "genre": "FPS",
+      "platform": "Xbox Series X / S",
+      "price": 59.99,
+      "publisher_id": "PUB-002"
+    },
+    {
+      "external_id": "GAME-004",
+      "title": "Echoes of Eternity",
+      "genre": "RPG",
+      "platform": "Android",
+      "price": 19.99,
+      "publisher_id": "PUB-001"
+    },
+    {
+      "external_id": "GAME-005",
+      "title": "Skyforge Tactics",
+      "genre": "Simulation",
+      "platform": "Nintendo Switch / 2",
+      "price": 39.99,
+      "publisher_id": "PUB-003"
+    },
+    {
+      "external_id": "GAME-006",
+      "title": "Crimson Horizon",
+      "genre": "FPS",
+      "platform": "macOS",
+      "price": 54.99,
+      "publisher_id": "PUB-004"
+    }
+  ]
+}
