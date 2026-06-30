@@ -2,57 +2,70 @@
   "games": [
     {
       "externalGameId": "GAME-001",
-      "title": "Shadow Realm",
+      "name": "Final Fantasy XVI",
+      "title": "Final Fantasy XVI",
       "genre": "RPG",
       "platform": "PlayStation 5",
-      "price": 49.99,
+      "price": 69.99,
       "publisherId": "PUB-001",
-      "relaseDate": "2026-01-15"
+      "relaseDate": "2023-06-22",
+      "coverArt": "PEGAR_URL_RAWG_AQUI"
     },
     {
       "externalGameId": "GAME-002",
-      "title": "Iron Tide",
+      "name": "Cities: Skylines II",
+      "title": "Cities: Skylines II",
       "genre": "Simulation",
       "platform": "Windows",
-      "price": 29.99,
+      "price": 49.99,
       "publisherId": "PUB-002",
-      "relaseDate": "2025-11-03"
+      "relaseDate": "2023-10-24",
+      "coverArt": "PEGAR_URL_RAWG_AQUI"
     },
     {
       "externalGameId": "GAME-003",
-      "title": "Frostbite Protocol",
+      "name": "Halo Infinite",
+      "title": "Halo Infinite",
       "genre": "FPS",
       "platform": "Xbox Series X / S",
       "price": 59.99,
       "publisherId": "PUB-002",
-      "relaseDate": "2026-03-22"
+      "relaseDate": "2021-12-08",
+      "coverArt": "PEGAR_URL_RAWG_AQUI"
     },
     {
       "externalGameId": "GAME-004",
-      "title": "Echoes of Eternity",
+      "name": "Genshin Impact",
+      "title": "Genshin Impact",
       "genre": "RPG",
       "platform": "Android",
-      "price": 19.99,
+      "price": 0.00,
       "publisherId": "PUB-001",
-      "relaseDate": "2025-09-30"
+      "relaseDate": "2020-09-28",
+      "coverArt": "PEGAR_URL_RAWG_AQUI"
     },
     {
       "externalGameId": "GAME-005",
-      "title": "Skyforge Tactics",
+      "name": "Animal Crossing: New Horizons",
+      "title": "Animal Crossing: New Horizons",
       "genre": "Simulation",
       "platform": "Nintendo Switch / 2",
-      "price": 39.99,
+      "price": 59.99,
       "publisherId": "PUB-003",
-      "relaseDate": "2026-02-10"
+      "relaseDate": "2020-03-20",
+      "coverArt": "PEGAR_URL_RAWG_AQUI"
     },
     {
       "externalGameId": "GAME-006",
-      "title": "Crimson Horizon",
+      "name": "BioShock Infinite",
+      "title": "BioShock Infinite",
       "genre": "FPS",
       "platform": "macOS",
-      "price": 54.99,
+      "price": 29.99,
       "publisherId": "PUB-004",
-      "relaseDate": "2026-05-01"
+      "relaseDate": "2013-03-26",
+      "coverArt": "PEGAR_URL_RAWG_AQUI"
     }
   ]
 }
+
