@@ -2,69 +2,69 @@
   "games": [
     {
       "externalGameId": "GAME-001",
-      "name": "Final Fantasy XVI",
+      "name": "Final Fantasy",
       "title": "Final Fantasy XVI",
       "genre": "RPG",
       "platform": "PlayStation 5",
       "price": 69.99,
       "publisherId": "PUB-001",
       "relaseDate": "2023-06-22",
-      "coverArt": "PEGAR_URL_RAWG_AQUI"
+      "coverArt": "https://preview.redd.it/anyone-have-this-ff16-cover-w-o-text-v0-bjtx7rvp5koe1.jpeg?width=640&crop=smart&auto=webp&s=edeec0b7aa3107444475b0b87687c1d17f04ee10"
     },
     {
       "externalGameId": "GAME-002",
-      "name": "Cities: Skylines II",
+      "name": "Cities: Skyline ",
       "title": "Cities: Skylines II",
       "genre": "Simulation",
       "platform": "Windows",
       "price": 49.99,
       "publisherId": "PUB-002",
       "relaseDate": "2023-10-24",
-      "coverArt": "PEGAR_URL_RAWG_AQUI"
+      "coverArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkA-_-M5ZMK3cjpw9uFKhXv1F4JJdio8YyEhZY-1eGg&s=10"
     },
     {
       "externalGameId": "GAME-003",
-      "name": "Halo Infinite",
+      "name": "Halo",
       "title": "Halo Infinite",
       "genre": "FPS",
       "platform": "Xbox Series X / S",
       "price": 59.99,
       "publisherId": "PUB-002",
       "relaseDate": "2021-12-08",
-      "coverArt": "PEGAR_URL_RAWG_AQUI"
+      "coverArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyohk8-2fb6Il6j_H4r6i42tVhhWgfqxT-y-XWncg8oETSDp11p1Q1tDQ&s"
     },
     {
       "externalGameId": "GAME-004",
-      "name": "Genshin Impact",
+      "name": "Genshin",
       "title": "Genshin Impact",
       "genre": "RPG",
       "platform": "Android",
       "price": 0.00,
       "publisherId": "PUB-001",
       "relaseDate": "2020-09-28",
-      "coverArt": "PEGAR_URL_RAWG_AQUI"
+      "coverArt": "https://upload-os-bbs.hoyolab.com/upload/2020/10/13/1078834/3191de5bb6328eb64fea21355c009837_6058951914751133206.jpg"
     },
     {
       "externalGameId": "GAME-005",
-      "name": "Animal Crossing: New Horizons",
+      "name": "Animal Crossing",
       "title": "Animal Crossing: New Horizons",
       "genre": "Simulation",
       "platform": "Nintendo Switch / 2",
       "price": 59.99,
       "publisherId": "PUB-003",
       "relaseDate": "2020-03-20",
-      "coverArt": "PEGAR_URL_RAWG_AQUI"
+      "coverArt": "https://external-preview.redd.it/the-official-english-new-horizons-box-art-v0-7ly42470O95jBbO8lJZMzbo3YkoHVdkhNKid4np1oWI.png?auto=webp&s=d9bca9cbb45500079e7877580cbac2cf5d603550"
     },
     {
       "externalGameId": "GAME-006",
-      "name": "BioShock Infinite",
+      "name": "BioShock",
       "title": "BioShock Infinite",
       "genre": "FPS",
       "platform": "macOS",
       "price": 29.99,
       "publisherId": "PUB-004",
       "relaseDate": "2013-03-26",
-      "coverArt": "PEGAR_URL_RAWG_AQUI"
+      "coverArt": "https://cdn.mobygames.com/covers/6956806-bioshock-infinite-playstation-3-front-cover.jpg"
     }
   ]
 }
